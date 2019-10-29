@@ -1,5 +1,15 @@
 # Pipes
 
+
+#Following inbuilt pipes are being done
+
+		1-lowercase, uppercase, titlecase, slice pipes
+		2-json pipe
+		3-number pipe
+		4-percent pipe
+		5-currency pipe with and without ISO currency code
+		6-date pipe with 'short', 'medium', 'long','shortDate', 'mediumDate', 'longDate','shortTime', 'mediumTime', 'longime'
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.14.
 
 ## Development server
